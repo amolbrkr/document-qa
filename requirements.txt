@@ -1,0 +1,8 @@
+streamlit
+requests
+openai
+beautifulsoup4
+PyPDF2
+google-generativeai
+chromadb
+protobuf == 3.20
